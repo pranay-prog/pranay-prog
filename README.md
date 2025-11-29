@@ -1,25 +1,15 @@
-pranay-prog
 # 💫 About Me:
 
-🔭 Working on AI/ML Projects<br>
-- 🤝 Collaborating on Machine Learning + Backend Projects<br>
-- 🌱 Learning ML, DL, DSA & Backend<br>
-- 💬 Ask me about Python, AI/ML, Backend Logic<br>
-- ⚡ Fun fact: I break things before I fix them 😄
-
-- ### 📊 GitHub Stats (Just for Fun)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranay-prog&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-2&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
+🔭 Working on AI/ML Projects  
+🤝 Collaborating on Machine Learning + Backend Projects  
+🌱 Learning ML, DL, DSA & Backend  
+💬 Ask me about Python, AI/ML, Backend Logic  
+⚡ Fun fact: I break things before I fix them 😄  
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranay-jain-5346b7325/)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranayjain2121@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranayjain2121@gmail.com)
 
 
 # 💻 Tech Stack:
@@ -46,15 +36,17 @@ pranay-prog
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=pranay-prog&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+### ⭐ GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=pranay-prog&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=pranay-prog&theme=dark&hide_border=false)<br/>
+### 🔥 GitHub Streak  
+![](https://streak-stats.demolab.com?user=pranay-prog&theme=dark&hide_border=false)
 
+### 🍩 Top Languages  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-prog&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=pranay-prog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
