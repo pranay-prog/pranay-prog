@@ -6,16 +6,6 @@
 - 💬 Ask me about Python, AI/ML, Backend Logic<br>
 - ⚡ Fun fact: I break things before I fix them 😄
 
-- ### 📊 GitHub Stats (Just for Fun)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranay-prog&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-2&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-jain-5346b7325/)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranayjain2121@gmail.com) 
