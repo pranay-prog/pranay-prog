@@ -4,7 +4,6 @@
 - 🤝 Collaborating on Machine Learning + Backend Projects<br>
 - 🌱 Learning ML, DL, DSA & Backend<br>
 - 💬 Ask me about Python, AI/ML, Backend Logic<br>
-- ⚡ Fun fact: I break things before I fix them 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-jain-5346b7325/)  
